@@ -1,2 +1,1 @@
-# Desenvolvemento Web
-para disciplina de aplicações web
+# Lista de exercicios do beecrowd
